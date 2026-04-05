@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c9489356-d7ed-40df-ac34-3af204ce94e9
 Номер групи: РС-31
 
 Автор: Фурса Данило
@@ -40,3 +42,9 @@
 - Канал 10 Гц (PD13): GND (земля) → Катод LED → Анод LED → струмообмежувальний резистор (220 Ом) → PD13
 
 Відео роботи:
+
+
+
+https://github.com/user-attachments/assets/a3e5c005-f85d-4d01-86f4-1caa88412d4a
+
+
