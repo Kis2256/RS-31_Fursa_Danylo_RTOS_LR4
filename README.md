@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/c9489356-d7ed-40df-ac34-3af204ce94e9
 Номер групи: РС-31
 
 Автор: Фурса Данило
