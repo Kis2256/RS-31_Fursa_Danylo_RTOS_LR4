@@ -47,7 +47,7 @@
 <img width="970" height="549" alt="image" src="https://github.com/user-attachments/assets/3f433bc2-ff21-4ffd-97dd-4ea4a0b4f42d" />
 
 
-Відео роботи:
+🎥 Відео роботи:
 
 
 
